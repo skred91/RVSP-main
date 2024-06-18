@@ -1,4 +1,4 @@
-------------------------------------------------------------------------------------------------------------------------------------------|<br/>
+---------------------------------------------------------------------------------------------------------------------------|<br/>
 -Hi everyone 👋, welcome to the RVSP github,<br/>
 
 This project consist of bypassing any anti-virus by using a custom reverse-shell<br/>
@@ -7,7 +7,7 @@ To Help us in our project. If you wanna help us, there's a discord link upside a
 Go see it 👍<br/>
 Enjoy our tool 👋<br/>
 
-------------------------------------------------------------------------------------------------------------------------------------------|<br/>
+---------------------------------------------------------------------------------------------------------------------------|<br/>
 
 <b>Installation :<b/>
 
@@ -37,8 +37,8 @@ encoded = (""" HERE """)
 
 8) To change the exe icon or whatever, i've put you the RessourceHacker latest installer ( 18/06/2024 )
 
-/!\ WARNING /!\ I use cx_freeze to compile the exe bcs pyinstaller is flagged by microsoft so you need all the Folder with the exe into it to run it
-DISCLAIMER : I recommend you to use an sfx archive, try different method and test it on VirusTotal, for me it haven't work with winrar.
-For any question go in the discord server.
+/!\ WARNING /!\ I use cx_freeze to compile the exe bcs pyinstaller is flagged by microsoft so you need all the Folder with the exe into it to run it<br>
+DISCLAIMER : I recommend you to use an sfx archive, try different method and test it on VirusTotal, for me it haven't work with winrar.<br>
+For any question go in the discord server.<br>
 
 GOOD LUCK !
