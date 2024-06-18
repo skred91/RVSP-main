@@ -13,7 +13,8 @@ Enjoy our tool 👋<br/>
 
 1) You need to install Python 3.12<br>
 
-2) In cmd run : ```ruby
+2) In cmd run :
+```ruby
 pip install -r requirements.txt
 ```<br>
 5) 
