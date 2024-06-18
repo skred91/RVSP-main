@@ -32,3 +32,11 @@ encoded = (""" HERE """)
 6) Go to pyobfuscate.com And Obfusc the File like this :<br>
    -Code minifier (1)<br>
    -Var Obfusc (2)<br>
+
+7) In the Tools folder you'll found the builder bat file, follow the instructions and the exe will be in the build folder.<br>
+
+/!\ WARNING /!\ I use cx_freeze to compile the exe bcs pyinstaller is flagged by microsoft so you need all the Folder with the exe into it to run it
+DISCLAIMER : I recommend you to use an sfx archive, try different method and test it on VirusTotal, for me it haven't work with winrar.
+For any question go in the discord server.
+
+GOOD LUCK !
