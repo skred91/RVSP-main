@@ -11,10 +11,10 @@ Enjoy our tool 👋<br/>
 
 <b>Installation :<b/>
 
-1) You need to install Python 3.12
------------------------------------>
+1) You need to install Python 3.12<br>
+
 2) In cmd run : ```ruby
 pip install -r requirements.txt
- ```
+```<br>
 5) 
 
