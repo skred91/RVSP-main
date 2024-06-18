@@ -1,4 +1,4 @@
-![alt text](https://github.com/skred91/RVSP-main/blob/main/Banniere.png)?raw=true)
+![alt text](https://github.com/skred91/RVSP-main/blob/main/Banniere.png))
 
 
 ---------------------------------------------------------------------------------------------------------------------------|<br/>
