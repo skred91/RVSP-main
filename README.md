@@ -16,6 +16,6 @@ Enjoy our tool 👋<br/>
 2) In cmd run :
 ```ruby
 pip install -r requirements.txt
-```<br>
+```
 5) 
 
